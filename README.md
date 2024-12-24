@@ -1,8 +1,9 @@
 # Deep Centrality Network (DCN): Multi-Layer Closeness Centrality for High-Precision Sensor Calibration
 
-- RyLee Harrison  
-- Email: ryleeharrison@icloud.com
-- December 23, 2024
+- Auther: RyLee Harrison  
+- Email:  ryleeharrison@icloud.com
+- Date:   December 23, 2024
+- Github: https://github.com/RyLeeHarrison
 
 ## Abstract
 
